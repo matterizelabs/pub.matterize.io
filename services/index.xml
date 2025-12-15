@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Matterize Labs - Your Matter Smart Home Development Partner</title><link>https://matterize.io/services/</link><description>Recent content in Services on Matterize Labs - Your Matter Smart Home Development Partner</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://matterize.io/services/index.xml" rel="self" type="application/rss+xml"/><item><title>Full-Stack IoT Development with Matter at the Core</title><link>https://matterize.io/services/service-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://matterize.io/services/service-1/</guid><description>&lt;p>At Matterize Labs, we help smart home companies bring their ideas to life with embedded software development, Matter protocol integration, and certification support. Whether you&amp;rsquo;re starting from scratch or updating existing hardware, our team delivers reliable, scalable, and Matter-compliant solutions.&lt;/p></description></item><item><title>Embedded Software Development</title><link>https://matterize.io/services/service-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://matterize.io/services/service-2/</guid><description>&lt;p>&lt;strong>Smart Firmware. Built for Performance.&lt;/strong>&lt;/p>
+&lt;p>We create custom firmware solutions that power connected devices. From resource-constrained microcontrollers to powerful Linux-based systems, we build software optimized for performance, security, and real-world deployment.&lt;/p>
+&lt;p>We specialize in:&lt;/p>
+&lt;ul>
+&lt;li>Embedded Linux (Yocto, Buildroot, OpenWRT)&lt;/li>
+&lt;li>FreeRTOS&lt;/li>
+&lt;li>Zephyr RTOS&lt;/li>
+&lt;/ul>
+&lt;p>Our approach ensures low power consumption, high reliability, and long-term maintainability—so your product is always ready for the future.&lt;/p></description></item><item><title>Matter Firmware Integration</title><link>https://matterize.io/services/service-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://matterize.io/services/service-3/</guid><description>&lt;p>&lt;strong>Certified Connectivity. Seamless User Experience.&lt;/strong>&lt;/p>
+&lt;p>Matter is the new standard for smart home interoperability. We integrate Matter protocol into your device firmware to ensure your product works effortlessly with Apple Home, Google Home, Amazon Alexa, and other major ecosystems.&lt;/p>
+&lt;p>With Matter built-in:&lt;/p>
+&lt;ul>
+&lt;li>Your devices pair faster&lt;/li>
+&lt;li>Work with more ecosystems&lt;/li>
+&lt;li>Stay up to date and secure&lt;/li>
+&lt;/ul>
+&lt;p>We don’t just make your products compatible. We make them Matter-ready from day one.&lt;/p></description></item><item><title>Matter Certification Support</title><link>https://matterize.io/services/service-4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://matterize.io/services/service-4/</guid><description>&lt;p>&lt;strong>Streamlined Testing. Fast to Market.&lt;/strong>&lt;/p>
+&lt;p>Getting certified by the Connectivity Standards Alliance can be complex. We simplify the process. From compliance audits to test preparation, we partner with trusted labs to ensure your product meets every requirement.&lt;/p>
+&lt;p>Our certification services include:&lt;/p>
+&lt;ul>
+&lt;li>Pre-certification testing&lt;/li>
+&lt;li>Debugging and validation&lt;/li>
+&lt;li>Documentation and application support&lt;/li>
+&lt;/ul>
+&lt;p>We help you pass the first time—saving you time, money, and frustration.&lt;/p></description></item><item><title>Technology and Platform Expertise</title><link>https://matterize.io/services/service-5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://matterize.io/services/service-5/</guid><description>&lt;p>&lt;strong>Trusted by Industry Leaders&lt;/strong>&lt;/p>
+&lt;p>We’ve built and integrated solutions using platforms and chipsets from:&lt;/p>
+&lt;ul>
+&lt;li>Espressif&lt;/li>
+&lt;li>Nordic Semiconductor&lt;/li>
+&lt;li>Renesas&lt;/li>
+&lt;li>Silicon Labs&lt;/li>
+&lt;li>NXP Semiconductors&lt;/li>
+&lt;/ul>
+&lt;p>Whether you’re working with Wi-Fi, Thread, Zigbee, or BLE, our engineers speak your language and understand your hardware.&lt;/p></description></item></channel></rss>

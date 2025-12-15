@@ -1,0 +1,20 @@
+{
+    "name": "Matterize",
+    "short_name": "Matterize",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#1e40af",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "24x23",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon_129x120.png",
+            "sizes": "129x120",
+            "type": "image/png"
+        }
+    ]
+}
